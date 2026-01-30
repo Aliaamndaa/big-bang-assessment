@@ -98,7 +98,7 @@ git push -u origin main
    - package.json
    - .gitignore
 
-## 🎉 Success!
+## Success!
 
 Your project is now on GitHub! You can share the repository URL with the hiring team.
 
