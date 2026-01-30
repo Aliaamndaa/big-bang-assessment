@@ -39,8 +39,8 @@ function main() {
     const outputPath = 'output.json';
     fs.writeFileSync(outputPath, JSON.stringify(bigBangArray, null, 2));
     
-    console.log(`✅ Successfully generated array with ${bigBangArray.length} elements`);
-    console.log(`📄 Output saved to: ${outputPath}`);
+    console.log(`Successfully generated array with ${bigBangArray.length} elements`);
+    console.log(`Output saved to: ${outputPath}`);
     console.log('\nBig Bang predictions:');
     
     // Count occurrences
